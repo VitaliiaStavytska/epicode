@@ -1,11 +1,11 @@
-{"Candidato_1":{"TITOLO":"Sig.","NOME":"Vladimir","SECONDO_NOME":null,"COGNOME":"Putin","ETA'":72,"N di TELEFONO":"3925344414","CITTA'":"Moscow","EMAIL":"vladimir.putin@gmail.com","status":"loser"}}
+{"Candidato_1":{"TITOLO":"Sig.","NOME":"Vladimir","SECONDO_NOME":null,"COGNOME":"Putin","ETA'":72,"N_di_TELEFONO":"3925344414","CITTA'":"Moscow","EMAIL":"vladimir.putin@gmail.com","status":"loser"}}
 
 {"Candidato_2":{"TITOLO":"Sig.","NOME":"Sam","SECONDO_NOME":null,"COGNOME":"Altman","ETA'":39,"N_di_TELEFONO":"5431294901","CITTA'":"Chicago","EMAIL":"sam.altman@gmail.com","status":"loser"}}
 
 {"Candidato_3":{"TITOLO":"Sig.ra","NOME":"Taylor","SECONDO_NOME":null,"COGNOME":"Swift","ETA'":33,"N_di_TELEFONO":"1234567890","CITTA'":"New_York","EMAIL":"taylor.swift@gmail.com","status":"winner"}}
 
-{"Candidato_4":{"TITOLO":"Sig.","NOME":"Xi","SECONDO_NOME":null,"COGNOME":"Jinping","ETA'":70,"N di TELEFONO":"987654321","CITTA'":"Pechino","EMAIL":"xi.jinping@gmail.com","status":"loser"}}
+{"Candidato_4":{"TITOLO":"Sig.","NOME":"Xi","SECONDO_NOME":null,"COGNOME":"Jinping","ETA'":70,"N_di_TELEFONO":"987654321","CITTA'":"Pechino","EMAIL":"xi.jinping@gmail.com","status":"loser"}}
 
-{"Candidato_5":{"TITOLO":"Sig.","NOME":"Jerome","SECONDO_NOME":null,"COGNOME":"Powell","ETA'":65,"N di TELEFONO":"6543217890","CITTA'":"Washington","EMAIL":"jerome.powell@gmail.com","status":"loser"}} 
+{"Candidato_5":{"TITOLO":"Sig.","NOME":"Jerome","SECONDO_NOME":null,"COGNOME":"Powell","ETA'":65,"N_di_TELEFONO":"6543217890","CITTA'":"Washington","EMAIL":"jerome.powell@gmail.com","status":"loser"}} 
 
-{"Candidato_6":{"TITOLO":"Sig.ra","NOME":"Barbie","SECONDO_NOME":null,"COGNOME":" ","ETA'":30,"N di TELEFONO":"5544433322","CITTA'":"New_York","EMAIL":"barbie@gmail.com","status":"loser"}}
+{"Candidato_6":{"TITOLO":"Sig.ra","NOME":"Barbie","SECONDO_NOME":null,"COGNOME":null,"ETA'":30,"N_di_TELEFONO":"5544433322","CITTA'":"New_York","EMAIL":"barbie@gmail.com","status":"loser"}}
