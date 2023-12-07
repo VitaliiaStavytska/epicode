@@ -1,7 +1,7 @@
 {"Lettera":
 {"titolo":"Buon_Natale","data":"07.12.2023"},
-{"Dati_sul_mittente":{"nome":"Vitaliia","cognome":"Stavytska","indirizzo":"via_Mar_dei_Caraibi,30","citta'":"Roma","CAP":00122,"regione":"Lazio"}}
-{"Dati_sul_destinatario":{"nome":"Babbo","cognome":"Natale","indirizzo":"via_Mar_del,Bering,40","citta'":"Laplandia","CAP":00777,"regione":"Rovaniemi"}}
+{"Dati_sul_mittente":{"nome":"Vitaliia","cognome":"Stavytska","indirizzo":"via_Mar_dei_Caraibi,30","citta'":"Roma","CAP":"00122","regione":"Lazio"}}
+{"Dati_sul_destinatario":{"nome":"Babbo","cognome":"Natale","indirizzo":"via_Mar_del,Bering,40","citta'":"Laplandia","CAP":"00777","regione":"Rovaniemi"}}
 {"testo":"Caro,Babbo_Natale..."}
 {"la_firma":"xxxxxxxx"}
 }
